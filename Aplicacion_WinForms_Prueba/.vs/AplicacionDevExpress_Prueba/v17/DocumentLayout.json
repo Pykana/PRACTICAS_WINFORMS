@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\Aplicacion_WinForms_Prueba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25721E8B-56F2-4B00-B1A0-71D0C6C61962}|AplicacionDevExpress_Prueba\\AplicacionDevExpress_Prueba.csproj|d:\\eelias\\documents\\eelias\\practicas\\proyectos\\aplicacion_winforms_prueba\\aplicaciondevexpress_prueba\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25721E8B-56F2-4B00-B1A0-71D0C6C61962}|AplicacionDevExpress_Prueba\\AplicacionDevExpress_Prueba.csproj|solutionrelative:aplicaciondevexpress_prueba\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\Aplicacion_WinForms_Prueba\\AplicacionDevExpress_Prueba\\Form1.cs",
+              "RelativeDocumentMoniker": "AplicacionDevExpress_Prueba\\Form1.cs",
+              "ToolTip": "D:\\eelias\\Documents\\EElias\\Practicas\\Proyectos\\Aplicacion_WinForms_Prueba\\AplicacionDevExpress_Prueba\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "AplicacionDevExpress_Prueba\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T15:52:28.21Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
